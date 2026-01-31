@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Building modern web apps | 🎓 Computer Engineering
+  🚀 Building modern web apps | 🎓 Computer Engineeringg
 </p>
 
 ---
