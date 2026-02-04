@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's me Jeen</h1>
 <p align="center">
-  Full-Stack Developer • React / Next.js • MERN • TypeScript
+  Full-Stack Developer • React / Next.js • MERN • TypeScrip
 </p>
 
 <p align="center">
