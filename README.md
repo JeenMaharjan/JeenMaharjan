@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's me Jeen</h1>
+⅞<h1 align="center">Hi 👋, It's me Jeen</h1>
 <p align="center">
   Full-Stack Developer • React / Next.js • MERN • TypeScriptt
 </p>
