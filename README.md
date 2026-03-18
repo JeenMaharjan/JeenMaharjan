@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Building modern web aps | 🎓 Computer Engineering
+  🚀 Building modern wb aps | 🎓 Computer Engineering
 </p>
 
 ---
